@@ -1,0 +1,13 @@
+#profile-title: DowrizVPN
+#support-url: https://t.me/DowrizVPN
+#profile-update-interval: 24
+#announce: Telegram : @DowrizVPN
+################################
+
+https://raw.githubusercontent.com/Dowriz/DowrizVPN/main/Config/Russia-Auto-1%20%40DowrizVPN.json
+https://raw.githubusercontent.com/Dowriz/DowrizVPN/main/Config/Russia-Auto-2%20%40DowrizVPN.json
+https://raw.githubusercontent.com/Dowriz/DowrizVPN/main/Config/Russia-Auto-3%20%40DowrizVPN.json
+https://raw.githubusercontent.com/Dowriz/DowrizVPN/main/Config/Russia-1%20%40DowrizVPN.json
+https://raw.githubusercontent.com/Dowriz/DowrizVPN/main/Config/Russia-2%20%40DowrizVPN.json
+https://raw.githubusercontent.com/Dowriz/DowrizVPN/main/Config/Russia-3%20%40DowrizVPN.json
+https://raw.githubusercontent.com/Dowriz/DowrizVPN/main/Config/USA-1%20%40DowrizVPN.json
