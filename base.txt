@@ -1,9 +1,9 @@
 # profile-title: Довризка <3
 # profile-update-interval: 1
 # announce: Мы не храним логи и не подглядываем
-# announce: Чужое нам не нужно — мы лучше за мемасиками понаблюдаем <3
+Чужое нам не нужно — мы лучше за мемасиками понаблюдаем <3
 # support-url: https://t.me/DowrizVPN
-# support-url: https://t.me/shadbobr1
+https://t.me/shadbobr1
 # Date/Time: 2026-03-07 / 21:00 (Moscow)
 
 vless://10a4c929-0643-07d0-9b89-0b823adaa2a8@212.193.153.187:443?encryption=none&type=ws&security=tls&path=%2F%2F&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2%2Chttp%2F1.1#1.%20Россия%20🇷🇺
