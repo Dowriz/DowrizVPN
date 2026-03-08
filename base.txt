@@ -1,7 +1,6 @@
 # profile-title: Довризка <3
 # profile-update-interval: 1
-# announce: Мы не храним логи и не подглядываем
-# Чужое нам не нужно — мы лучше за мемасиками понаблюдаем <3
+# announce: Чужое нам не нужно – мы лучше за мемасиками понаблюдаем <3
 # support-url: https://t.me/DowrizVPN
 # Date/Time: 2026-03-07 / 21:00 (Moscow)
 
