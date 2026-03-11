@@ -1,9 +1,0 @@
-# profile-title: Довризка (V2) <3
-# profile-update-interval: 1
-# announce: Чужое нам не нужно – мы лучше за мемасиками понаблюдаем <3
-# support-url: https://t.me/DowrizVPN
-# Date/Time: 2026-03-07 / 21:00 (Moscow)
-
-vless://c58a4c5d-413b-41cf-a303-466b8c2851ae@178.154.194.222:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&type=tcp&headerType=none#1.%20Россия%20🇷🇺
-vless://c58a4c5d-413b-41cf-a303-466b8c2851ae@51.250.93.180:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&type=tcp&headerType=none#2.%20Россия%20🇷🇺
-vless://c58a4c5d-413b-41cf-a303-466b8c2851ae@gazprom1.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=chrome&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&type=tcp&headerType=none#3.%20Россия%20🇷🇺
